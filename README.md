@@ -182,7 +182,7 @@
             </h1>
             
             <h2 class="text-4xl text-gray-800 mb-6 font-display font-bold fade-in-up" style="animation-delay: 0.6s">
-                My Loving Raveesha
+                My Loving Raveesha ♥
             </h2>
             
             <p class="text-2xl text-gray-700 mb-8 font-body max-w-md fade-in-up" style="animation-delay: 0.8s">
