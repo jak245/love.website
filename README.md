@@ -240,35 +240,10 @@
                 </p>
 
                 <!-- Photo Upload Section -->
-                <div class="bg-gradient-to-r from-pink-100 to-purple-100 rounded-3xl p-6 mb-8 border-2 border-pink-200">
-                    <div class="text-center mb-4">
-                        <svg class="w-12 h-12 mx-auto mb-3 text-pink-600" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/>
-                        </svg>
-                        <h3 class="text-xl font-bold text-gray-800 mb-2 font-display">Add Your Photos</h3>
-                        <p class="text-base text-gray-600 font-body mb-4">Tap to choose photos from your gallery</p>
-                    </div>
-                    <div class="flex justify-center">
-                        <input type="file" id="photo-upload" accept="image/*" multiple class="hidden">
-                        <button onclick="document.getElementById('photo-upload').click()" class="px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-full font-bold text-lg shadow-lg active:scale-95 transition-transform duration-150 font-body">
-                            📷 Choose Photos
-                        </button>
-                    </div>
-                </div>
 
-                <!-- Photo Grid -->
-                <div id="photo-grid" class="grid grid-cols-2 gap-3"></div>
-
-                <!-- Placeholder when no photos -->
-                <div id="photo-placeholder" class="text-center py-12">
-                    <div class="text-5xl mb-3">📸</div>
-                    <p class="text-xl text-gray-600 font-body mb-2">
-                        Upload your beautiful photos!
-                    </p>
-                    <p class="text-base text-gray-500 font-body">
-                        Tap "Choose Photos" above
-                    </p>
-                </div>
+<a href="https://github.com/jak245/love.website/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.20.00%20AM%20(1).jpeg">
+  <img src="WhatsApp Image 2026-02-16 at 12.20.00 AM (1).jpeg" alt="View Project on GitHub">
+</a>
 <a href="https://github.com/jak245/love.website/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.20.00%20AM%20(2).jpeg">
   <img src="WhatsApp Image 2026-02-16 at 12.20.00 AM (2).jpeg" alt="View Project on GitHub">
 </a>
