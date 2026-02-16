@@ -249,7 +249,9 @@
 
    <p class="text-base text-gray-600 font-body mb-4">Tap to choose photos from your gallery</p>
                     </div>
-                   
+      
+ <div class="flex justify-center">
+                        <input type="file" id="photo-upload" accept="image/*" multiple class="hidden">             
                 </div>
 
                 <!-- Photo Grid -->
