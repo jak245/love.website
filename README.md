@@ -269,7 +269,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+    
 
         <!-- Divider -->
         <div class="flex justify-center py-8">
