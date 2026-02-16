@@ -257,10 +257,22 @@
                 </div>
 <a href="https://github.com/jak245/love.website/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.20.00%20AM%20(1).jpeg">
   <img src="WhatsApp Image 2026-02-16 at 12.20.00 AM (1).jpeg" alt="View Project on GitHub">
-</a>
+</a> <br>
 <a href="https://github.com/jak245/love.website/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.20.00%20AM%20(2).jpeg">
   <img src="WhatsApp Image 2026-02-16 at 12.20.00 AM (2).jpeg" alt="View Project on GitHub">
-</a>
+</a> <br>
+<a href="https://github.com/jak245/love.website/blob/main/IMG_4047.jpeg">
+  <img src="IMG_4047.jpeg" alt="View Project on GitHub">
+</a> <br>
+<a href="https://github.com/jak245/love.website/blob/main/IMG_4135.jpeg">
+  <img src="IMG_4135.jpeg" alt="View Project on GitHub">
+</a> <br>
+<a href="https://github.com/jak245/love.website/blob/main/IMG_4178.jpeg">
+  <img src="IMG_4178.jpeg" alt="View Project on GitHub">
+</a> <br>
+<a href="https://github.com/jak245/love.website/blob/main/IMG_4212.jpeg">
+  <img src="IMG_4212.jpeg" alt="View Project on GitHub">
+</a> <br>
                 <div class="mt-8">
                     <div class="bg-gradient-to-r from-pink-500 to-purple-500 text-white rounded-3xl p-6 shadow-2xl">
                         <p class="text-xl leading-relaxed font-body text-center">
