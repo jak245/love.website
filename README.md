@@ -151,6 +151,7 @@
         ];
         const revealedReasons = new Set();
         function getGitHubRawUrl(filename) { return 'https://raw.githubusercontent.com/' + GITHUB_CONFIG.username + '/' + GITHUB_CONFIG.repo + '/' + GITHUB_CONFIG.branch + '/' + encodeURIComponent(filename); }
+        function loadGitHubPhotos() {
             const container = document.getElementById('github-photos');
             GITHUB_CONFIG.photos.forEach((filename, index) => {
                 const photoUrl = getGitHubRawUrl(filename);
