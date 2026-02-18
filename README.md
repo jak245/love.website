@@ -138,7 +138,7 @@
         </footer>
     </div>
     <script>
-        const GITHUB_CONFIG = { username: 'jak245', repo: '', branch: 'main', photos: ['WhatsApp Image 2026-02-16 at 12.20.00 AM (1).jpeg', 'WhatsApp Image 2026-02-16 at 12.20.00 AM (2).jpeg', 'IMG_4047.jpeg', 'IMG_4135.jpeg', 'IMG_4178.jpeg', 'IMG_4212.jpeg'] };
+        const GITHUB_CONFIG = { username: 'jak245', branch: 'main', photos: ['WhatsApp Image 2026-02-16 at 12.20.00 AM (1).jpeg', 'WhatsApp Image 2026-02-16 at 12.20.00 AM (2).jpeg', 'IMG_4047.jpeg', 'IMG_4135.jpeg', 'IMG_4178.jpeg', 'IMG_4212.jpeg'] };
         const reasons = [
             { icon: "💫", text: "Raveesha, your smile lights up my entire world", color: "from-pink-400 to-rose-500" },
             { icon: "🌸", text: "You make every ordinary moment extraordinary", color: "from-purple-400 to-pink-500" },
@@ -150,7 +150,7 @@
             { icon: "⭐", text: "Being with you, Raveesha, feels like coming home", color: "from-red-400 to-pink-500" }
         ];
         const revealedReasons = new Set();
-        function getGitHubRawUrl(filename) { return 'https://raw.githubusercontent.com/' + GITHUB_CONFIG.username + '/' + GITHUB_CONFIG.repo + '/' + GITHUB_CONFIG.branch + '/' + encodeURIComponent(filename); }
+        function getGitHubRawUrl(filename) { return 'https://raw.githubusercontent.com/' + GITHUB_CONFIG.username + '/' + GITHUB_CONFIG.branch + '/' + encodeURIComponent(filename); }
         function loadGitHubPhotos() {
             const container = document.getElementById('github-photos');
             GITHUB_CONFIG.photos.forEach((filename, index) => {
